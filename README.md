@@ -11,4 +11,8 @@ Upload screen record of the assignment along with the full source code.
 -------------------
 
 Project is done using : html, css, php, mysql, mamp.
-Video is uploaded to google drive and submitted as private comment.
+
+--------------------
+Video Link :
+https://drive.google.com/file/d/1oy8PJaUZoXGcVW1CYmzaq3Xglu-LwLuf/view?usp=sharing
+
